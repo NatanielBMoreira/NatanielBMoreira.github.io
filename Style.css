@@ -6,3 +6,7 @@ h1
 {
     font-family: OCR A Std, monospace;
 }
+body
+{
+    background-color: rgb(237, 224, 212);
+}
