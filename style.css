@@ -1,0 +1,50 @@
+body
+{
+    padding: 25px;
+}
+h1
+{
+    font-family: Impact, fantasy;
+    text-align: center;
+}
+.Subtitulos
+{
+    font-family: OCR A Std, monospace;
+    margin-top: 0%;
+}
+body
+{
+    background-color: gray
+}
+strong
+{
+    color: rgb(88, 47, 14);
+    font-family: monospace;
+    font-size: 1.1em;
+}
+.list
+{
+    font-size: 18px;
+}
+
+#Foto-perfil
+{
+    float: left;
+    padding: 5px;
+    background-color: brown;
+}
+#descrition
+{
+    height: 276.500px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+
+#descrition h2, #descrition p
+{
+    width: 95%;
+    position: relative;
+    left: 2%;
+    right: 2%;
+}
+
